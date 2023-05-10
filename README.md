@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **eli4ka753@abv.bg**
 
-- 💁‍♀️About me **I am obsessed with coding. In my whole life I have always wanted to do this.
+- 💁‍♀️About me: I am obsessed with coding. In my whole life I have always wanted to do this.
 - 💻 I think consistency is key 💻
 
 <h3 align="left">Connect with me:</h3>
