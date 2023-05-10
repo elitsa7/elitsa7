@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Elitsa Dacheva</h1>
+<h1 align="center">Hi 👋, I'm Elitsa Dacheva!</h1>
 <h3 align="center">I am currently studying Web Development in SoftUni.</h3>
 <img - align - "center" width = "500" src = "https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🌱 Learning **Java**
-📫 How to reach me **eli4ka753@abv.bg**
-💁‍♀️About me: I am obsessed with coding. In my whole life I have always wanted to do this.
+🌱 Learning **Java** <br>
+📫 How to reach me **eli4ka753@abv.bg** <br>
+💁‍♀️About me: I am obsessed with coding. In my whole life I have always wanted to do this. <br>
 💻 I think consistency is key 💻
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elitsa7" alt="elitsa7" /></a> </p>
