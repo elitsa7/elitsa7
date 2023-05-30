@@ -5,7 +5,7 @@
 🌱 Learning **Java** <br>
 📫 How to reach me **eli4ka753@abv.bg** <br>
 💁‍♀️About me: I am obsessed with coding. In my whole life I have always wanted to do this. <br>
-💻 I think consistency is key 💻
+💻"Consistency is key"💻
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elitsa7" alt="elitsa7" /></a> </p>
 
