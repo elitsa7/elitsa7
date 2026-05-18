@@ -3,7 +3,7 @@
 <img - align - "center" width = "500" src = "https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🌱 Learning **Java** <br>
-📫 How to reach me **eli4ka753@abv.bg** <br>
+📫 How to reach me **eli4ka753@gmail.com** <br>
 💁‍♀️About me: I am obsessed with coding. In my whole life I have always wanted to do this. <br>
 💻"Consistency is key"💻
 
