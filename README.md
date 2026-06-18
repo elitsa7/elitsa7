@@ -7,8 +7,6 @@
 💁‍♀️About me: I am obsessed with coding. In my whole life I have always wanted to do this. <br>
 💻"Consistency is key"💻
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elitsa7" alt="elitsa7" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/elitsa-dacheva-b26016273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elitsa-dacheva-b26016273/" height="30" width="40" /></a>
