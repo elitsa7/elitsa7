@@ -7,6 +7,7 @@
 💻 Passionate about Java Backend Development • Clean Architecture • REST APIs • Microservices
 
 🚀 Building real-world applications and continuously improving my skills.
+
 🖤 **“Consistency is key.”** 🖤  
  
 
@@ -209,8 +210,6 @@ A standalone *Spring Boot microservice* responsible for the payment-related part
 ### 🎓 SoftUni Certificates
 
 I am continuously building my skills through the *SoftUni Web Development program*.
-
-All certificates are available as PDF files in the [`certificates`](certificates/) folder.
 
 | Course | Certificate |
 
