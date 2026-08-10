@@ -231,13 +231,13 @@ I am continuously building my skills through the *SoftUni Web Development progra
 
   <a href="https://www.linkedin.com/in/elitsa-dacheva-b26016273">
 
-    <img src="https://img.shields.io/badge/LinkedIn-Elitsa%20Dacheva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+   <img src="https://img.shields.io/badge/LinkedIn-Elitsa%20Dacheva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 
   </a>
 
   <a href="https://www.facebook.com/share/1JXTFuk8sq/?mibextid=wwXIfr">
 
-    <img src="https://img.shields.io/badge/Facebook-Elitsa%20Dacheva-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+   <img src="https://img.shields.io/badge/Facebook-Elitsa%20Dacheva-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 
   </a>
 
