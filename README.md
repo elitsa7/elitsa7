@@ -221,6 +221,7 @@ I am continuously building my skills through the *SoftUni Web Development progra
 | 🗄️ MySQL — January 2024 | [📄 View Certificate](MySQL%20-%20January%202024%20-%20Certificate.pdf) |
 | 🌱 Spring Data — February 2024 | [📄 View Certificate](Spring%20Data%20-%20February%202024%20-%20Certificate.pdf) |
 | 🌱 Spring Fundamentals — May 2026 | [📄 View Certificate](Spring%20Fundamentals%20-%20May%202026%20-%20Certificate.pdf) |
+| 🌱 Spring Advanced — June 2026 | [📄 View Certificate](Spring%20Advanced%20-%20June%202026%20-%20Certificate.pdf) |
 
 
 ---
